@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>About Me</p>
+<p align="center">About Me</p>
 
 
 <p>ʜɪ ᴛʜᴇʀᴇ, ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴠɪᴠᴇᴋ ᴜᴘᴀᴅʜʏᴀʏ, ᴀɴᴅ ɪ ᴀᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀ ꜱᴘᴇᴄɪᴀʟ ɪɴᴛᴇʀᴇꜱᴛ ɪɴ ꜰᴜʟʟ₋ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ᴀᴛ ᴛʜᴇ ᴀɢᴇ ᴏꜰ ᴊᴜꜱᴛ 17 ʏᴇᴀʀꜱ ᴏʟᴅ, ɪ ʙᴇɢᴀɴ ᴇxᴘʟᴏʀɪɴɢ ᴛʜᴇ ᴡᴏʀʟᴅ ᴏꜰ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ʜᴀᴠᴇ ʙᴇᴇɴ ʜᴏᴏᴋᴇᴅ ᴇᴠᴇʀ ꜱɪɴᴄᴇ.
@@ -25,6 +25,6 @@
 
 ɪꜰ ʏᴏᴜ'ʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ᴀ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴀɴᴅ ᴛᴀʟᴇɴᴛᴇᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ɪ ᴡᴏᴜʟᴅ ʙᴇ ᴛʜʀɪʟʟᴇᴅ ᴛᴏ ᴡᴏʀᴋ ᴡɪᴛʜ ʏᴏᴜ. ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴛᴏ ᴍᴇ ᴛᴏ ᴅɪꜱᴄᴜꜱꜱ ʏᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ᴏʀ ɪᴅᴇᴀꜱ. ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴛᴀᴋɪɴɢ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ ʀᴇᴀᴅ ᴍʏ ᴀʙᴏᴜᴛ ꜱᴇᴄᴛɪᴏɴ!
 
-Need help building your community or Web app? You can contact me on ! Portfolio Linkdein</p>
+Need help building your community or Web app? You can contact me on !  Linkdein</p>
 
 My Skills and Tools & Software I Use
