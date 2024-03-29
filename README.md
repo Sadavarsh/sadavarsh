@@ -23,7 +23,7 @@
 
 ɪꜰ ʏᴏᴜ'ʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ᴀ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴀɴᴅ ᴛᴀʟᴇɴᴛᴇᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ɪ ᴡᴏᴜʟᴅ ʙᴇ ᴛʜʀɪʟʟᴇᴅ ᴛᴏ ᴡᴏʀᴋ ᴡɪᴛʜ ʏᴏᴜ. ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴛᴏ ᴍᴇ ᴛᴏ ᴅɪꜱᴄᴜꜱꜱ ʏᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ᴏʀ ɪᴅᴇᴀꜱ. ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴛᴀᴋɪɴɢ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ ʀᴇᴀᴅ ᴍʏ ᴀʙᴏᴜᴛ ꜱᴇᴄᴛɪᴏɴ!
 
-Need help building your community or Web app? You can contact me on !  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sadavarsh-saini-b5385a220/)) </p>
+Need help building your community or Web app? You can contact me on !  [![Linkedin Badge](https://img.shields.io/badge/-sadavarsh-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sadavarsh-saini-b5385a220/)) </p>
 
 My Skills and Tools & Software I Use
 
